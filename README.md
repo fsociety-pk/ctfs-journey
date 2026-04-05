@@ -1,5 +1,3 @@
-# FSociety // ctfs-journey
-
 <p align="center">
   <img src="https://img.shields.io/badge/Organization-FSociety-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=ff003c" alt="Organization Badge"/>
   <img src="https://img.shields.io/badge/Status-Active_CTF_Journey-111111?style=for-the-badge&logo=probot&logoColor=00e5ff" alt="Status Badge"/>
